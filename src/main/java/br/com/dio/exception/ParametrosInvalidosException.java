@@ -1,4 +1,4 @@
-package br.com.dio;
+package br.com.dio.exception;
 
 public class ParametrosInvalidosException extends Exception {
     public ParametrosInvalidosException(String mensagem) {
